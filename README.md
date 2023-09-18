@@ -10,7 +10,7 @@
 
 
 </div>  
-<div align="center">SI graduated with a bachelor's degree in Industrial Engineering and a master's degree in Business Intelligence and Data Analytics. In my master's graduation project, I worked on the classification of countries with cluster analysis in terms of foreign tourism demand for Turkey. I started my career in the purchasing department, then worked as a process analyst. I am currently working as an Enterprise Application Operations Specialist. I completed the Miuul Data Science and Machine Learning Bootcamp program and improved myself in data science. I plan my career journey on data science.</div>  
+<div align="center">I graduated with a bachelor's degree in Industrial Engineering and a master's degree in Business Intelligence and Data Analytics. In my master's graduation project, I worked on the classification of countries with cluster analysis in terms of foreign tourism demand for Turkey. I started my career in the purchasing department, then worked as a process analyst. I am currently working as an Enterprise Application Operations Specialist. I completed the Miuul Data Science and Machine Learning Bootcamp program and improved myself in data science. I plan my career journey on data science.</div>  
 
   
 
