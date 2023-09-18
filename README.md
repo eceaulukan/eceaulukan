@@ -10,11 +10,11 @@
 
 
 </div>  
-### <div align="center">Since 2018, I have been working in ink and plastic packaging factories. I have added data science expert skills to these experiences. With the training I received on this subject, I have carried out some projects and carried out studies. you can reach from the repositories section.</div>  
+<div align="center">SI graduated with a bachelor's degree in Industrial Engineering and a master's degree in Business Intelligence and Data Analytics. In my master's graduation project, I worked on the classification of countries with cluster analysis in terms of foreign tourism demand for Turkey. I started my career in the purchasing department, then worked as a process analyst. I am currently working as an Enterprise Application Operations Specialist. I completed the Miuul Data Science and Machine Learning Bootcamp program and improved myself in data science. I plan my career journey on data science.</div>  
 
   
 
-- 🔭 I’m currently working in Polinas / Yıldız Holding  
+- 🔭 I’m currently working in Turkcell Global Bilgi
   
 
 - 🌱 I’m currently learning Machine Learning  
@@ -50,13 +50,7 @@
 
 
 <div align="center">
-<a href="https://github.com/ulukann" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ulukann" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/osman-ulukan" target="_blank">
+<a href="https://linkedin.com/in/ece-aydogdu-ulukan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 
